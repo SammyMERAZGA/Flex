@@ -1,0 +1,50 @@
+[0m2021.08.18 09:24:45 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sammy\Desktop\Symphonie' for client Visual Studio Code 1.59.0.[0m
+[0m2021.08.18 09:24:47 INFO  time: initialize in 1.98s[0m
+[0m2021.08.18 09:24:47 WARN  Build server is not auto-connectable.[0m
+[0m2021.08.18 09:24:47 WARN  no build tool detected in workspace 'C:\Users\Sammy\Desktop\Symphonie'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.08.18 09:40:14 INFO  shutting down Metals[0m
+[0m2021.08.18 15:48:47 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sammy\Desktop\Symphonie' for client Visual Studio Code 1.59.0.[0m
+[0m2021.08.18 15:48:50 INFO  time: initialize in 2.95s[0m
+[0m2021.08.18 15:48:50 WARN  Build server is not auto-connectable.[0m
+[0m2021.08.18 15:48:50 WARN  no build tool detected in workspace 'C:\Users\Sammy\Desktop\Symphonie'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.08.18 15:50:27 INFO  shutting down Metals[0m
+[0m2021.08.19 23:14:52 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sammy\Desktop\Symphonie' for client Visual Studio Code 1.59.0.[0m
+[0m2021.08.19 23:14:54 INFO  time: initialize in 2.15s[0m
+[0m2021.08.19 23:14:54 WARN  Build server is not auto-connectable.[0m
+[0m2021.08.19 23:14:54 WARN  no build tool detected in workspace 'C:\Users\Sammy\Desktop\Symphonie'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.08.19 23:40:57 INFO  shutting down Metals[0m
+[0m2021.08.20 13:58:30 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sammy\Desktop\SymphonieHS' for client Visual Studio Code 1.59.1.[0m
+[0m2021.08.20 13:58:32 INFO  time: initialize in 2.12s[0m
+[0m2021.08.20 13:58:33 WARN  Build server is not auto-connectable.[0m
+[0m2021.08.20 13:58:33 WARN  no build tool detected in workspace 'C:\Users\Sammy\Desktop\SymphonieHS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.08.20 13:59:01 INFO  shutting down Metals[0m
+[0m2021.08.20 19:02:26 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sammy\Desktop\Symphonie' for client Visual Studio Code 1.59.1.[0m
+[0m2021.08.20 19:02:30 INFO  time: initialize in 3.3s[0m
+[0m2021.08.20 19:02:30 WARN  Build server is not auto-connectable.[0m
+[0m2021.08.20 19:02:30 WARN  no build tool detected in workspace 'C:\Users\Sammy\Desktop\Symphonie'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.08.20 19:34:19 INFO  shutting down Metals[0m
+[0m2021.08.21 15:11:07 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sammy\Desktop\Symphonie' for client Visual Studio Code 1.59.1.[0m
+[0m2021.08.21 15:11:09 INFO  time: initialize in 2.28s[0m
+[0m2021.08.21 15:11:09 WARN  Build server is not auto-connectable.[0m
+[0m2021.08.21 15:11:09 WARN  no build tool detected in workspace 'C:\Users\Sammy\Desktop\Symphonie'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.08.21 15:46:45 INFO  shutting down Metals[0m
+[0m2021.08.22 14:04:06 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sammy\Desktop\Symphonie' for client Visual Studio Code 1.59.1.[0m
+[0m2021.08.22 14:04:08 INFO  time: initialize in 2.34s[0m
+[0m2021.08.22 14:04:08 WARN  Build server is not auto-connectable.[0m
+[0m2021.08.22 14:04:08 WARN  no build tool detected in workspace 'C:\Users\Sammy\Desktop\Symphonie'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.08.22 15:44:31 INFO  shutting down Metals[0m
+[0m2021.08.23 11:31:22 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sammy\Desktop\Symphonie' for client Visual Studio Code 1.59.1.[0m
+[0m2021.08.23 11:31:26 INFO  time: initialize in 3.89s[0m
+[0m2021.08.23 11:31:27 WARN  Build server is not auto-connectable.[0m
+[0m2021.08.23 11:31:27 WARN  no build tool detected in workspace 'C:\Users\Sammy\Desktop\Symphonie'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.08.23 11:53:21 INFO  shutting down Metals[0m
+[0m2021.08.25 18:57:04 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sammy\Desktop\Projets Terminés\PHP\Symphonie' for client Visual Studio Code 1.59.1.[0m
+[0m2021.08.25 18:57:07 INFO  time: initialize in 3.16s[0m
+[0m2021.08.25 18:57:08 WARN  Build server is not auto-connectable.[0m
+[0m2021.08.25 18:57:08 WARN  no build tool detected in workspace 'C:\Users\Sammy\Desktop\Projets Terminés\PHP\Symphonie'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.08.25 18:58:28 INFO  shutting down Metals[0m
+[0m2021.09.21 19:01:22 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\Sammy\Desktop\Projets Terminés\PHP\Symphonie' for client Visual Studio Code 1.59.1.[0m
+[0m2021.09.21 19:01:27 INFO  time: initialize in 4.59s[0m
+[0m2021.09.21 19:01:30 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.21 19:01:30 WARN  no build tool detected in workspace 'C:\Users\Sammy\Desktop\Projets Terminés\PHP\Symphonie'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.21 19:02:35 INFO  shutting down Metals[0m
